@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "956463284788",
+    "firebase_url": "https://aplikasimahasiswa-3812f.firebaseio.com",
+    "project_id": "aplikasimahasiswa-3812f",
+    "storage_bucket": "aplikasimahasiswa-3812f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956463284788:android:46b08903520b74d96e0061",
+        "android_client_info": {
+          "package_name": "com.example.aplikasimahasiswa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956463284788-u1192s1mkervsco6hsl56djhr5fh7s90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0-TKULMEH7dToYri7ZOP-wXr6Yy436zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956463284788-u1192s1mkervsco6hsl56djhr5fh7s90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
